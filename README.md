@@ -1,4 +1,4 @@
-# davidedwards
+# davi a. dedwards
 
 ### Hi 👋
 
