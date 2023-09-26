@@ -1,7 +1,11 @@
-### Hi there 👋
+# davidedwards
+
+### Hi 👋
+
+- 🌴🏖️ I’m currently working on Embedded systems and bunch of fun stuff!
 
 <!--
-**davedwards/davedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rcliao/rcliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
