@@ -1,4 +1,4 @@
-# davi a. dedwards
+# David A. Edwards
 
 ### Hi 👋
 
